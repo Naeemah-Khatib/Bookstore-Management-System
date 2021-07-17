@@ -75,7 +75,7 @@ if(isset($_POST['submit']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Books">
-    <title>Online Bookstore</title>
+    <title>BookLand</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/my.css" rel="stylesheet">
     <style>
@@ -102,7 +102,7 @@ if(isset($_POST['submit']))
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="#" style="padding: 2px; padding-left:10px;"><img class="img-responsive" alt="Brand" src="img/logo.png" ></a>
-       
+          <div style="padding:10px; font-size:2em;  color: orange; float:right;">BookLand</div>
           
         </div>
 
